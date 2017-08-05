@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 54ae5997e710c9d4c9b680f6358245af
+timeCreated: 1486887890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: BikiniBottom
+    100006: BikiniTop
+    100008: Body
+    100010: Body_001
+    100012: Bone
+    100014: Bone_001
+    100016: Bone_001_L
+    100018: Bone_001_L_001
+    100020: Bone_001_L_002
+    100022: Bone_001_L_003
+    100024: Bone_001_L_004
+    100026: Bone_001_L_005
+    100028: Bone_001_L_006
+    100030: Bone_001_L_007
+    100032: Bone_001_L_008
+    100034: Bone_001_L_009
+    100036: Bone_001_R
+    100038: Bone_001_R_001
+    100040: Bone_001_R_002
+    100042: Bone_001_R_003
+    100044: Bone_001_R_004
+    100046: Bone_001_R_005
+    100048: Bone_001_R_006
+    100050: Bone_001_R_007
+    100052: Bone_001_R_008
+    100054: Bone_001_R_009
+    100056: Bone_002
+    100058: Bone_003
+    100060: Bone_004
+    100062: Bone_L
+    100064: Bone_L_001
+    100066: Bone_L_002
+    100068: Bone_L_003
+    100070: Bone_L_004
+    100072: Bone_R
+    100074: Bone_R_001
+    100076: Bone_R_002
+    100078: Bone_R_003
+    100080: Bone_R_004
+    100082: Dress
+    100084: Pants
+    100086: Plane
+    100088: Short
+    100090: Stocking
+    100092: Top_Tank
+    400000: //RootNode
+    400002: Armature
+    400004: BikiniBottom
+    400006: BikiniTop
+    400008: Body
+    400010: Body_001
+    400012: Bone
+    400014: Bone_001
+    400016: Bone_001_L
+    400018: Bone_001_L_001
+    400020: Bone_001_L_002
+    400022: Bone_001_L_003
+    400024: Bone_001_L_004
+    400026: Bone_001_L_005
+    400028: Bone_001_L_006
+    400030: Bone_001_L_007
+    400032: Bone_001_L_008
+    400034: Bone_001_L_009
+    400036: Bone_001_R
+    400038: Bone_001_R_001
+    400040: Bone_001_R_002
+    400042: Bone_001_R_003
+    400044: Bone_001_R_004
+    400046: Bone_001_R_005
+    400048: Bone_001_R_006
+    400050: Bone_001_R_007
+    400052: Bone_001_R_008
+    400054: Bone_001_R_009
+    400056: Bone_002
+    400058: Bone_003
+    400060: Bone_004
+    400062: Bone_L
+    400064: Bone_L_001
+    400066: Bone_L_002
+    400068: Bone_L_003
+    400070: Bone_L_004
+    400072: Bone_R
+    400074: Bone_R_001
+    400076: Bone_R_002
+    400078: Bone_R_003
+    400080: Bone_R_004
+    400082: Dress
+    400084: Pants
+    400086: Plane
+    400088: Short
+    400090: Stocking
+    400092: Top_Tank
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+    4300002: Body
+    4300004: Body_001
+    4300006: Stocking
+    4300008: Short
+    4300010: BikiniTop
+    4300012: Top_Tank
+    4300014: Pants
+    4300016: Dress
+    4300018: BikiniBottom
+    7400000: Default Take
+    7400002: PoseLib
+    9500000: //RootNode
+    13700000: BikiniBottom
+    13700002: BikiniTop
+    13700004: Body
+    13700006: Body_001
+    13700008: Dress
+    13700010: Pants
+    13700012: Short
+    13700014: Stocking
+    13700016: Top_Tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
